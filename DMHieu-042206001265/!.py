@@ -1,0 +1,1 @@
+print('Hello world! Tôi là Nguyễn Tấn Trung Dũng')
