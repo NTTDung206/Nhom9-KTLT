@@ -1,6 +1,0 @@
-hour=float(input("enter hour"))
-rate=float(input("enter rate"))
-pay=(rate)*(hour)
-print("enter rate",rate)
-print("enter hour", hour)
-print("pay",pay)
