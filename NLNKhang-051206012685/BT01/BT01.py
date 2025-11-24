@@ -1,1 +1,0 @@
-print ("Hello world! Tôi là Nguyễn Lê Nguyên Khang")
